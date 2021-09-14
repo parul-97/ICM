@@ -2,12 +2,13 @@
 
 # Features
   - Easy Login & Registration with Server side validations.
-  - Save Clients details on Cloud securely with Spring Security.
+  - Save clients details on Cloud securely with Spring Security.
   - Encryption on saving passwords with BCrypt password encoder.
-  - User Dashboard to view, add, update, delete contacts, users profile, logout etc.
+  - Vendor Dashboard to view, add, update, delete clients, logout etc.
   - Added pagination for pages to view more clients. 
-  - Custom Search bar to view clients for every user.
+  - Custom Search bar to view clients for every vendor.
   - Easily view and delete the clients.
+  - Store scanned contracts and process them to machine readable PDFs.
   
  # Dependencies
   - spring-boot-starter-data-jpa
