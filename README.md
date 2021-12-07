@@ -51,5 +51,21 @@ Trained ML models that could identify certain metadata/clauses from these docume
   - bootstrap
   - Img2pdf (https://github.com/josch/img2pdf) / Tesseract 
   
+ 
+  # Login Page
+  ![Login Page](https://user-images.githubusercontent.com/22851620/144982082-6b1c63dc-ba2c-4f0a-bbb8-7bed0348f724.png)
   
+  # Forgot Password
+  ![Forgot password](https://user-images.githubusercontent.com/22851620/144982121-c7127feb-31e6-4824-b1ac-0c54c12ee59b.png)
   
+  # User Dashboard
+  ![User Dashboard](https://user-images.githubusercontent.com/22851620/144981347-71c76fc6-ac46-4d34-affc-5fc2729cc5eb.png)
+  
+  # Client DashBoard
+  ![Client Dashboard](https://user-images.githubusercontent.com/22851620/144982328-e0d2902a-9840-41da-8ec9-4e11577f6ce5.png)
+  
+   # Document Show Page
+  ![Document ShowPage](https://user-images.githubusercontent.com/22851620/144982204-0a89f129-4360-4393-b738-bc505866c56b.png)
+  
+  # Client DashBoard Copy
+  ![Client Dashboard copy](https://user-images.githubusercontent.com/22851620/144982391-024663f8-8e76-4b28-bc59-c124e74d54e8.png)
