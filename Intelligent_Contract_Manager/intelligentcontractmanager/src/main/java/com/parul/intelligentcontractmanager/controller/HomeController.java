@@ -58,8 +58,8 @@ public class HomeController {
 
         try {
             if (!agreement) {
-                System.out.println("You have not agree the terms and conditions");
-                throw new Exception("You have not agree the terms and conditions");
+                System.out.println("You have not agree to the terms and conditions");
+                throw new Exception("You have not agree to the terms and conditions");
             }
          
             //checking for errors.
